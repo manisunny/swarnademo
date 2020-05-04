@@ -5,3 +5,4 @@ Added from GitHub
 Added from branch sunny
 Adding more from branch sunny
 Testing conflict
+Added from command line
